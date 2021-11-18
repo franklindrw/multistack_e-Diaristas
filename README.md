@@ -21,7 +21,7 @@
 
 <p>A página foi criada a partir do desafio do Multistack 2ª edição, onde criamos uma página Web para contratar diaristas conforme é consultado na API de ceps.</p>
 <br />
-<img src="" />
+<img src="![image](https://user-images.githubusercontent.com/81038899/142322352-d1fb8b9e-2d52-4497-abb9-0787e00f1d08.png)" />
 <br />
 <p>Página foi criada usando React para estruturar e colocar os elementos do mui Material, como mascara de CEP, imagem de perfil, avaliação, etc.</p>
 <br />
