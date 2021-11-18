@@ -1,6 +1,4 @@
-<div id="top" align="left">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- </div>
+<div id="top"></div>
 
 <h1 align="center"> multistack: E-diaristas </h1>
 
@@ -14,7 +12,7 @@
  
  
 <h4 align="center"> Página feita em React para contrato de diaristas, aprendido com o imersão multistack [2ª edição] </h4>
-<br /> <br /><br />
+<br /> <br />
 
 
 <h2>Sobre o Projeto</h2>
@@ -29,10 +27,17 @@
 <div display="flex" align="center">
  <img width="90%" src="https://user-images.githubusercontent.com/81038899/142321952-114c6926-9b9d-4705-b99a-febc891e599f.png" />
  <img width="90%" src="https://user-images.githubusercontent.com/81038899/142324977-2bc3fd35-dd72-47a4-9118-0ac0592856ac.png" />
+ <img width="90%" src="https://user-images.githubusercontent.com/81038899/142330183-7c2fe4a5-9052-4d26-9c56-7c08f9cc94b2.png" />
 </div>
 
-<br /><br /><br />
+<br /><br />
 
 
 <h3>Construído com</h3>
+<div id="statusProject" align="left">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
+
+
 
