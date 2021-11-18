@@ -56,3 +56,5 @@
      `` `sh
      npm run dev
     `` 
+5. Ao iniciar o Servidor copiar o link gerado e colar no navegador conforme print a baixo
+<img src="https://user-images.githubusercontent.com/81038899/142336590-d0bcd482-3642-4b84-9fbf-6e046dd997fd.png" />
