@@ -14,19 +14,17 @@
  
  
 <h4 align="center"> Página feita em React para contrato de diaristas, aprendido com o imersão multistack [2ª edição] </h4>
-<br /> <br />
+<br /> <br /><br />
 
 
 <h2>Sobre o Projeto</h2>
 
 <p>A página foi criada a partir do desafio do Multistack 2ª edição, onde criamos uma página Web para contratar diaristas conforme é consultado na API de ceps.</p>
-<br />
-<img src="https://user-images.githubusercontent.com/81038899/142321952-114c6926-9b9d-4705-b99a-febc891e599f.png" />
-<br />
-<p>Página foi criada usando React para estruturar e colocar os elementos do mui Material, como mascara de CEP, imagem de perfil, avaliação, etc.</p>
-<br />
-<img src="" />
+<img src="https://user-images.githubusercontent.com/81038899/142322011-fe8d4815-faf3-4f42-9c08-bb1056850b45.png" />
 <br /><br />
+<p>Página foi criada usando React para estruturar e colocar os elementos do mui Material, como mascara de CEP, imagem de perfil, avaliação, etc.</p>
+<img width="50%" src="https://user-images.githubusercontent.com/81038899/142321952-114c6926-9b9d-4705-b99a-febc891e599f.png" />
+<br /><br /><br />
 
 
 <h3>Construído com</h3>
