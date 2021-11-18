@@ -37,7 +37,22 @@
 <div id="statusProject" align="left">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
+<br /><br />
 
 
+## Instalação
+ 1. Clone o repositório
+
+ 2. Navegue até a pasta clonada
+
+ 3. Instale o pacote Next app
+    `` `sh
+     npx create-next-app ediaristas --ts
+    `` 
+ 4. Inicie o dev dentro do package.json
+     `` `sh
+     npm run dev
+    `` 
