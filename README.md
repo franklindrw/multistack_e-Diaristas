@@ -2,7 +2,7 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </div>
 
-<h1 align="center"> multistack - e-Diaristas </h1>
+<h1 align="center"> multistack: E-diaristas </h1>
 
 <div id="statusProject" align="center">
  <img src="https://img.shields.io/github/license/franklindrw/multistack_e-Diaristas.svg?style=for-the-badge" />
