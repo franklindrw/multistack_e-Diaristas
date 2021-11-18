@@ -49,11 +49,11 @@
  2. Navegue até a pasta clonada
 
  3. Instale o pacote Next app
-    `` `sh
+    ``
      npx create-next-app ediaristas --ts
     `` 
  4. Inicie o dev dentro do package.json
-     `` `sh
+     ``
      npm run dev
     `` 
 5. Ao iniciar o Servidor copiar o link gerado e colar no navegador conforme print a baixo
