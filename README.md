@@ -19,7 +19,7 @@
 | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
 | -------------  | --- |
 | :sparkles: Nome        |  multistack: E-diaristas
-| :label: Tecnologias | React, Styled-components, Next.js
+| :label: Tecnologias | React, Typescript, Styled-components, Next.js
 | :rocket: URL         | 
 | :fire: Desafio     | Página feita em React para contrato de diaristas, aprendido com o imersão multistack [2ª edição]
 
