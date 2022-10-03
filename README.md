@@ -16,6 +16,15 @@
 <h4 align="center"> Página feita em React para contrato de diaristas, aprendido com o imersão multistack [2ª edição] </h4>
 <br /> <br />
 
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
+| -------------  | --- |
+| :sparkles: Nome        |  multistack: E-diaristas
+| :label: Tecnologias | React, Styled-componenets, 
+| :rocket: URL         | 
+| :fire: Desafio     | Página feita em React para contrato de diaristas, aprendido com o imersão multistack [2ª edição]
+
+<br /><br />
+
 
 <h2>Sobre o Projeto</h2>
 
